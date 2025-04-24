@@ -2,7 +2,7 @@
 Page
 1
 of 3
-# 'yourwebsitename'
+# Auction House
 [Link to live site here- 'this appears as lint to click']
 ( https://'yourlivelink.com')
 ![Am I responsive image](can include a path website image file stored in assets)
