@@ -69,8 +69,14 @@ Display of three main product categories: Electronics, Fashion, Collectibles.
 ## Deployment & Local Development
 ### Deployment
 - instruction goes here
+- Pushed repository to GitHub.
+- Enabled GitHub Pages from repository settings.
+- Live site available at: (my link to be added later).
 ### Local Development
 - instruction goes here
+- Clone the repository using Git:
+  ```bash
+  git clone https://github.com/Mounir313/auction-house.git
 ## Testing
 ### Automated Testing
 #### W3C Validator
@@ -86,7 +92,10 @@ Display of three main product categories: Electronics, Fashion, Collectibles.
 -
 ### Manual Testing
 #### Testing User Stories
-- notes goes here
+Testing User Stories
+- Navigation works perfectly on desktop and mobile.
+- Search bar submits correctly.
+- Category Cards display properly across different device sizes.
 #### Full Testing
 Full testing was done on the following devices:
 -
@@ -95,9 +104,22 @@ Full testing was done on the following browsers:
 #### Full Page Testing
 ### Bugs
 #### Solved bugs
+- Navbar collapsing issues on mobile — solved using Bootstrap's collapse components.
+- Button hover states appearing inconsistent — solved by adding Bootstrap utility classes.
 #### Known Bugs
+- Search bar does not connect to a backend — static for now.
+- No deep link after refresh (typical behavior for single-page scrolling).
+
+
 ## Credits/ References
 ### Code Used
+- Bootstrap 5.3.2 official documentation was referenced for building the Navbar, Cards, and Form.
+- Bootstrap: https://getbootstrap.com/
 ### Content
 ### Media
 ### Research Material
+- Bootstrap documentation.
+- W3C Validator resources.
+- MDN Web Docs for minor HTML/CSS references.
+
+
