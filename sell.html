@@ -1,0 +1,33 @@
+<!-- Sell Page content -->
+
+<section class="sell-form p-5">
+  <div class="container">
+    <h2>Sell Your Item</h2>
+    <form>
+      <div class="mb-3">
+        <label for="itemPhoto" class="form-label">Upload Item Photo</label>
+        <input type="file" class="form-control" id="itemPhoto">
+        <small class="form-text text-muted">
+          <!-- Added for User Story: Easy Upload (Linda) -->
+          Upload clear, high-quality images to attract buyers.
+        </small>
+      </div>
+
+      <div class="mb-3">
+        <label for="itemDescription" class="form-label">Item Description</label>
+        <textarea class="form-control" id="itemDescription" rows="3"></textarea>
+      </div>
+
+      <div class="mb-3">
+        <label for="itemPrice" class="form-label">Set Your Price</label>
+        <input type="number" class="form-control" id="itemPrice" placeholder="Enter price in your local currency">
+        <small class="form-text text-muted">
+          <!-- Added for User Story: Pricing Tool Tip (Linda) -->
+          Tip: Set a fair price based on average prices of similar items.
+        </small>
+      </div>
+
+      <button type="submit" class="btn btn-primary">Submit Listing</button>
+    </form>
+  </div>
+</section>
