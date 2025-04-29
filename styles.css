@@ -1,6 +1,34 @@
-body{
-	backround-color:blue;
+/* General Styles */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-p{font-size:30;
-color:red
+/* Navbar */
+.navbar {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Sections */
+section {
+  padding: 60px 0;
+}
+
+/* Cards */
+.card {
+  border: none;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Footer */
+footer {
+  margin-top: 40px;
+}
+
+/* Weather Info */
+#weatherInfo {
+  font-size: 1.2rem;
+}
+/* Smooth scrolling for better UX */
+html {
+  scroll-behavior: smooth;
+}
