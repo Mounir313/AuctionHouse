@@ -32,10 +32,27 @@ The user experience design for Auction House is guided by detailed personas that
 - **Imagery**
 - 'notes on where you obtain the images for your website'
 - **Wireframes**
+![Screenshot 2025-04-30 195617](https://github.com/user-attachments/assets/5e820b5c-6227-44d8-b9ef-f2cc7e37a4d3)
+![Screenshot 2025-04-30 195859](https://github.com/user-attachments/assets/c192f8f2-67de-4a10-886c-f23e84a7e5f4)
+Desktop Wireframe Annotations
+- Improved Contrast: Enhanced text/background contrast for better readability (WCAG compliant).
+- Alt Text: Added alt-text for all images to support screen readers.
+- Keyboard Access: Buttons now have visible focus states for easier navigation.
+- Consistent Buttons: Unified style and size for all buttons.
+- Form Labels: Newsletter field now includes clear, accessible labels.
+- Breadcrumbs: Added navigation path for user orientation.
+
+- Mobile Wireframe Annotations
+- Larger Tap Areas: Increased button size for easier tapping.
+- Readable Fonts: Ensured minimum 16px font for clarity on small screens.
+- Accessible Forms: Email field now uses proper type and labels.
+- Touch-Friendly Icons: Search/cart icons made larger with labels.
+- Skip Link: Added "Skip to Content" for screen reader users.
+- Form Feedback: Confirmation message added after subscribing.
+- 
 - 'notes or why and what changes were made during revision'
 - Initial wireframes featured a simple one-page scroll design.
 - Revised to include clear divisions with separate sections for better UX clarity.
-![View wireframes here]('path/link to the wireframes goes here')
 ## Development Process- 'finished product screenshots'
 - Custom HTML5 used for semantic layout.
 - Custom CSS3 used for visual styling.
