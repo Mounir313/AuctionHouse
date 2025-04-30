@@ -10,11 +10,13 @@ of 3
 ' Auction House is a fully responsive marketplace website where users can buy, sell, and search for various items. It provides an easy and intuitive platform for users to browse categories, list items, and search for products, all within a clean and modern layout.'
 ## User Experience (UX)
 The user experience design for Auction House is guided by detailed personas that represent key user groups. Two primary personas—Linda (Vintage Goods Seller) and Alex (Crypto User)—are considered. Below I added screenshots that outline their goals, tasks, user stories, and acceptance criteria to inform feature design and ensure the interface meets their needs.
-### User Stories (US)
-'write your users stories/tasks here'
-- **your persona1 story and tasks**
-1. As a [persona], I [want to], [so that]
-**Tasks**
+### User Stories (US)'
+- **your persona1 and 2 story and tasks**
+- 
+![Screenshot 2025-04-27 222242](https://github.com/user-attachments/assets/05cfafb1-985e-452a-9a5a-a67163ef1b11)
+![Screenshot 2025-04-27 222321](https://github.com/user-attachments/assets/bd70ed9c-29a1-43ad-88e1-725c9ac64155)
+
+
 -
 ### Design Choices -'change as per your needs include old and revised wireframes '
 ![color pallette]('path to the image file for your colour pallet here')
