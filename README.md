@@ -62,6 +62,39 @@ Desktop Wireframe Annotations
 - Fully commented code separating external and internal custom work.
 - Final product tested across browsers and devices.
 ### Features
+User-friendly interface
+- Welcoming homepage with a simple layout.
+- Clear navigation bar with options like Home, Categories, Buy & Sell, and Item Search.
+- Categories of Items
+Electronics
+- Includes smartphones, laptops, gadgets, etc.
+- Fashion
+- Features clothing, accessories, and luxury items.
+Collectibles
+- Focuses on rare, vintage, and unique pieces.
+Buying and Selling Options
+- Allows users to list their items for sale or place bids.
+- Buy Items and Sell Items buttons for easy access.
+Search Functionality
+- An item search field for users to search for specific items.
+Live Auctions
+- Displays live auction items with details.
+- Allows users to place bids on items.
+- Supports secure payment options using cryptocurrencies like Ethereum.
+Listing Items for Sale
+- Option for users to upload item photos.
+- Fields for item title, description, and setting a price.
+- Guidance provided to enter appealing listings to attract buyers.
+ Payment Options
+- Supports secure payments, enhancing user trust and convenience.
+Interactive Features
+- Bidding for current items displayed.
+- Opportunity to interact with a variety of product categories.
+These features collectively enhance the user experience by providing a comprehensive platform for buying and selling items.
+
+
+
+
 -
 ### navigation
 -  Responsive navbar with links to all major sections.
