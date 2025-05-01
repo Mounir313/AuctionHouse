@@ -3,8 +3,7 @@ Page
 1
 of 3
 # Auction House
-
-![Am I responsive image](can include a path website image file stored in assets)
+https://mounir313.github.io/AuctionHouse/
 ## Introduction
 ' Auction House is a fully responsive marketplace website where users can buy, sell, and search for various items. It provides an easy and intuitive platform for users to browse categories, list items, and search for products, all within a clean and modern layout.'
 ## User Experience (UX)
