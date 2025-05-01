@@ -170,8 +170,17 @@ Testing User Stories
 #### Full Testing
 Full testing was done on the following devices:
 -
+iPhone 16 pro
+iPad Air
+MacBook Air
+Windows PC
+
 Full testing was done on the following browsers:
 -
+Google Chrome
+Safari
+Microsoft Edge
+
 #### Full Page Testing
 ### Bugs
 #### Solved bugs
