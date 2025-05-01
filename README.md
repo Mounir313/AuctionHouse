@@ -111,7 +111,7 @@ Display of three main product categories: Electronics, Fashion, Collectibles.
 ![Screenshot 2025-05-01 184846](https://github.com/user-attachments/assets/ded65a34-1ca9-43db-b6ee-ef309d72c603)
 
 ###  webpage 4
-![{FC558E1E-56DA-4AC7-AEEC-692F10EB391B}](https://github.com/user-attachments/assets/f3f17e2d-c22f-466a-bdb1-fe7aaa947470)
+
 
 ### webpage 5
 ![{49531D64-B168-4118-A884-803B077841FE}](https://github.com/user-attachments/assets/0fa10207-9fda-469d-a856-04664a844eef)
