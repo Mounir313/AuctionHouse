@@ -164,7 +164,8 @@ Footer Purpose:
 ![Screenshot 2025-05-01 225233](https://github.com/user-attachments/assets/b5519841-0434-4c8f-9657-f9daf1b976c0)
 
  #### Wave??
--
+![Screenshot 2025-05-01 232539](https://github.com/user-attachments/assets/5948c618-e9e9-469c-b934-ab63ed041723)
+
 ### Manual Testing
 #### Testing User Stories
 Testing User Stories
@@ -174,10 +175,10 @@ Testing User Stories
 #### Full Testing
 Full testing was done on the following devices:
 -
-iPhone 16 pro
-iPad Air
-MacBook Air
-Windows PC
+- iPhone 16 pro
+- iPad Air
+- MacBook Air
+- Windows PC
 
 Full testing was done on the following browsers:
 -
@@ -199,8 +200,7 @@ Microsoft Edge
 ### Code Used
 - Bootstrap 5.3.2 official documentation was referenced for building the Navbar, Cards, and Form.
 - Bootstrap: https://getbootstrap.com/
-### Content
-### Media
+  
 ### Research Material
 - Bootstrap documentation.
 - W3C Validator resources.
