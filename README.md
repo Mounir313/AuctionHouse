@@ -154,11 +154,11 @@ Footer Purpose:
 ![Screenshot 2025-05-01 230729](https://github.com/user-attachments/assets/6efa883c-57ca-4825-8b78-c196dc004ec4)
 
 #### CSS Jigsaw validator
-- 'include images here'
+![Screenshot 2025-05-01 231454](https://github.com/user-attachments/assets/bf6be13d-fa7c-4218-9bcb-5eccbcd14363)
+
 #### Lighthouse
  **Desktop Report**
-  
-![Screenshot 2025-05-01 225023](https://github.com/user-attachments/assets/999f49b3-df2e-4e2a-b18b-7fb689897ee9)
+   ![Screenshot 2025-05-01 225023](https://github.com/user-attachments/assets/999f49b3-df2e-4e2a-b18b-7fb689897ee9)
 
  **Mobile Report**
 ![Screenshot 2025-05-01 225233](https://github.com/user-attachments/assets/b5519841-0434-4c8f-9657-f9daf1b976c0)
