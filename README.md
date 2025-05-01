@@ -151,7 +151,8 @@ Footer Purpose:
 ## Testing
 ### Automated Testing
 #### W3C Validator
-- 'include images'
+![Screenshot 2025-05-01 230729](https://github.com/user-attachments/assets/6efa883c-57ca-4825-8b78-c196dc004ec4)
+
 #### CSS Jigsaw validator
 - 'include images here'
 #### Lighthouse
