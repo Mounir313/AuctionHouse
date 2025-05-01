@@ -72,10 +72,26 @@ Desktop Wireframe Annotations
 ### webpage 1
 - Introduction to Auction House.
 - Call to action for exploring or selling items.
+![{17B8F6FB-F490-4DA4-804E-8C2709D67755}](https://github.com/user-attachments/assets/86c50562-b2f5-4219-99a8-4bdf4c1ad68f)
+
+- 
 ### webpage 2
 Display of three main product categories: Electronics, Fashion, Collectibles.
-###
-###
+
+![{7CC2BAEC-B339-4EB7-8CCD-7FDB7FC28A37}](https://github.com/user-attachments/assets/ef6aa998-60a0-45ad-b764-456e248b1677)
+
+### webpage 3
+
+![{34C1435D-B5CE-4211-B959-E956D207AEB0}](https://github.com/user-attachments/assets/0dc5167b-9063-411d-98e1-8fbca475be44)
+###  webpage 4
+![{FC558E1E-56DA-4AC7-AEEC-692F10EB391B}](https://github.com/user-attachments/assets/f3f17e2d-c22f-466a-bdb1-fe7aaa947470)
+
+### webpage 5
+![{49531D64-B168-4118-A884-803B077841FE}](https://github.com/user-attachments/assets/0fa10207-9fda-469d-a856-04664a844eef)
+
+### webpage 6
+![{C74E3535-939F-45B9-8F8C-990A717D39FE}](https://github.com/user-attachments/assets/24fcffe6-2785-452e-acaf-f1e8eed49c02)
+
 ###
 ### Footer
 -
