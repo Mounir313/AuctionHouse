@@ -104,15 +104,20 @@ These features collectively enhance the user experience by providing a comprehen
 ### webpage 1
 - Introduction to Auction House.
 - Call to action for exploring or selling items.
+![Screenshot 2025-05-01 184733](https://github.com/user-attachments/assets/1ec2daf2-7306-43a9-be2b-bbdb2cc00d21)
+- 
 
 
 - 
 ### webpage 2
 Display of three main product categories: Electronics, Fashion, Collectibles.
 
+![Screenshot 2025-05-01 184802](https://github.com/user-attachments/assets/9fb1caae-2643-4956-84d8-326dca58e6a2)
+
+## webpage 3
+![Screenshot 2025-05-01 184846](https://github.com/user-attachments/assets/ded65a34-1ca9-43db-b6ee-ef309d72c603)
 
 
-### webpage 3
 
 ###  webpage 4
 ![{FC558E1E-56DA-4AC7-AEEC-692F10EB391B}](https://github.com/user-attachments/assets/f3f17e2d-c22f-466a-bdb1-fe7aaa947470)
