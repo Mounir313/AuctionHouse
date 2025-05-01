@@ -126,7 +126,17 @@ Display of three main product categories: Electronics, Fashion, Collectibles.
 
 ###
 ### Footer
--
+- Uses the <footer> tag for semantic meaning.
+- Styled with Bootstrap classes (bg-primary, text-white, text-center, py-3).
+- Contains contact email and social media links.
+- Links are underlined for visibility and styled to match the text color.
+Footer Purpose:
+- Provides users with a way to contact support.
+- Connects users to the company’s social media pages.
+- Enhances credibility and user engagement.
+- Clearly marks the bottom of the page.
+
+
 ### Frameworks, Libraries & Programs Used
 - **Bootstrap 5.3.2** - For responsive design and UI components.
 - **Google Fonts** - Default system fonts via Bootstrap.
