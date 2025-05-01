@@ -16,7 +16,58 @@
     </div>
   </nav>
   
-  <!-- ✨ Back Button -->
+  <!-- Back Button -->
 <div class="container mt-3">
   <a href="index.html" class="btn btn-outline-secondary">&larr; Back to Home</a>
 </div>
+  
+<!-- Sell Form Section -->
+<section class="sell-form py-5 bg-light">
+  ...
+</section>
+
+   <!-- Enhanced Sell Form Section -->
+  <section class="sell-form py-5 bg-light">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+          <div class="card shadow p-4">
+            <h2 class="text-center mb-4 text-primary">List Your Item for Sale</h2>
+
+            <form>
+              <div class="mb-3">
+                <label for="itemPhoto" class="form-label fw-semibold">Upload Item Photo</label>
+                <input type="file" class="form-control" id="itemPhoto">
+                <div class="form-text text-muted">
+                  Upload clear, high-quality images to attract buyers.
+                </div>
+              </div>
+
+              <div class="mb-3">
+                <label for="itemTitle" class="form-label fw-semibold">Item Title</label>
+                <input type="text" class="form-control" id="itemTitle" placeholder="e.g. Vintage Camera">
+              </div>
+
+              <div class="mb-3">
+                <label for="itemDescription" class="form-label fw-semibold">Item Description</label>
+                <textarea class="form-control" id="itemDescription" rows="4" placeholder="Describe the condition, age, and details of your item..."></textarea>
+              </div>
+
+              <div class="mb-3">
+                <label for="itemPrice" class="form-label fw-semibold">Set Your Price</label>
+                <input type="number" class="form-control" id="itemPrice" placeholder="Enter price in USD or your local currency">
+                <div class="form-text text-muted">
+                  Tip: Check average prices of similar items to stay competitive.
+                </div>
+              </div>
+
+              <div class="d-grid">
+                <button type="submit" class="btn btn-success btn-lg">Submit Listing</button>
+              </div>
+            </form>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
