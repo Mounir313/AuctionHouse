@@ -49,8 +49,8 @@ Desktop Wireframe Annotations
 - Touch-Friendly Icons: Search/cart icons made larger with labels.
 - Skip Link: Added "Skip to Content" for screen reader users.
 - Form Feedback: Confirmation message added after subscribing.
-- 
-- 'notes or why and what changes were made during revision'
+  
+'notes or why and what changes were made during revision'
 - Initial wireframes featured a simple one-page scroll design.
 - Revised to include clear divisions with separate sections for better UX clarity.
 ## Development Process- 'finished product screenshots'
@@ -90,24 +90,18 @@ Interactive Features
 - Opportunity to interact with a variety of product categories.
 These features collectively enhance the user experience by providing a comprehensive platform for buying and selling items.
 
-
-
-
--
 ### navigation
 -  Responsive navbar with links to all major sections.
-- Mobile collapse behavior using Bootstrap.
+-  Mobile collapse behavior using Bootstrap.
 
 ### header
--Bold brand logo and welcome message.
+Bold brand logo and welcome message.
+
 ### webpage 1
 - Introduction to Auction House.
 - Call to action for exploring or selling items.
 ![Screenshot 2025-05-01 184733](https://github.com/user-attachments/assets/1ec2daf2-7306-43a9-be2b-bbdb2cc00d21)
-- 
-
-
-- 
+  
 ### webpage 2
 Display of three main product categories: Electronics, Fashion, Collectibles.
 
@@ -115,8 +109,6 @@ Display of three main product categories: Electronics, Fashion, Collectibles.
 
 ## webpage 3
 ![Screenshot 2025-05-01 184846](https://github.com/user-attachments/assets/ded65a34-1ca9-43db-b6ee-ef309d72c603)
-
-
 
 ###  webpage 4
 ![{FC558E1E-56DA-4AC7-AEEC-692F10EB391B}](https://github.com/user-attachments/assets/f3f17e2d-c22f-466a-bdb1-fe7aaa947470)
@@ -127,7 +119,6 @@ Display of three main product categories: Electronics, Fashion, Collectibles.
 ### webpage 6
 ![{C74E3535-939F-45B9-8F8C-990A717D39FE}](https://github.com/user-attachments/assets/24fcffe6-2785-452e-acaf-f1e8eed49c02)
 
-###
 ### Footer
 - Uses the <footer> tag for semantic meaning.
 - Styled with Bootstrap classes (bg-primary, text-white, text-center, py-3).
@@ -151,7 +142,7 @@ Footer Purpose:
 - instruction goes here
 - Pushed repository to GitHub.
 - Enabled GitHub Pages from repository settings.
-- Live site available at: (my link to be added later).
+- Live site available at: (my link is added at the top).
 ### Local Development
 - instruction goes here
 - Clone the repository using Git:
