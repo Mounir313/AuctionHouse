@@ -155,11 +155,14 @@ Footer Purpose:
 #### CSS Jigsaw validator
 - 'include images here'
 #### Lighthouse
-- **Desktop Report**
--include image/notes here
-- **Mobile Report**
--include image/notes here
-#### Wave??
+ **Desktop Report**
+  
+![Screenshot 2025-05-01 225023](https://github.com/user-attachments/assets/999f49b3-df2e-4e2a-b18b-7fb689897ee9)
+
+ **Mobile Report**
+![Screenshot 2025-05-01 225233](https://github.com/user-attachments/assets/b5519841-0434-4c8f-9657-f9daf1b976c0)
+
+ #### Wave??
 -
 ### Manual Testing
 #### Testing User Stories
