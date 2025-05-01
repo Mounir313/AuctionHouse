@@ -15,7 +15,7 @@ The user experience design for Auction House is guided by detailed personas that
 ![Screenshot 2025-04-27 222321](https://github.com/user-attachments/assets/bd70ed9c-29a1-43ad-88e1-725c9ac64155)
 
 
--
+
 ### Design Choices -'change as per your needs include old and revised wireframes '
 ![color pallette]('path to the image file for your colour pallet here')
 - I will be using white and blue colour text against the light and primary background colours.
@@ -30,7 +30,7 @@ The user experience design for Auction House is guided by detailed personas that
 - Custom HTML5 semantic structure is implemented for SEO and accessibility.
 - Sections are divided logically: Home, Categories, Buy & Sell, and Item Search.
 - **Imagery**
-- 'notes on where you obtain the images for your website'
+- I got the images from different sites on Google, and they are free to use images and logo.
 - **Wireframes**
 ![Screenshot 2025-04-30 195617](https://github.com/user-attachments/assets/5e820b5c-6227-44d8-b9ef-f2cc7e37a4d3)
 ![Screenshot 2025-04-30 195859](https://github.com/user-attachments/assets/c192f8f2-67de-4a10-886c-f23e84a7e5f4)
